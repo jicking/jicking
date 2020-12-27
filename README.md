@@ -1,13 +1,13 @@
 <h1 align="center">Yooo 👋, I'm Jicking Bebiro</h1>
 <h3 align="center">A passionate full stack .NET developer from PH.</h3>
 
-- ❤️ ASP.NET Core + reactjs
+- ❤️ ASP.NET Core and reactjs
 
 - 🛠️ I’m currently working on .net and reactjs tutorials for [jickingDev](https://github.com/jickingdev)
 
 - 🎮 I also make games (using Godot) and game assets for [jickingx](https://github.com/jickingx)
 
-- 📝 I regularly write articles on [http://jickingdev.blogspot.com/](http://jickingdev.blogspot.com/)
+- 📝 I write dev articles on [http://jickingdev.blogspot.com/](http://jickingdev.blogspot.com/)
 
 - ⚡ Fun fact **I draw monsters too**
 
@@ -15,11 +15,8 @@
 <p align="left">
 <a href="https://twitter.com/jicking" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jicking" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jicking" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jicking" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/jicking" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="jicking" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/3862882" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="jicking" height="30" width="40" /></a>
 <a href="https://medium.com/@jicking" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@jicking" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/jicking.dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="jicking.dev" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/jicking" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="jicking" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/jicking" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="jicking" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

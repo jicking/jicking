@@ -1,15 +1,6 @@
 <h1 align="center">Yooo 👋, I'm Jicking Bebiro</h1>
-<h3 align="center">A passionate full stack .NET developer from PH.</h3>
-
-- ❤️ ASP.NET Core and reactjs
-
-- 🛠️ I’m currently working on .net and reactjs tutorials for [jickingDev](https://github.com/jickingdev)
-
-- 🎮 I also make games (using Godot) and game assets for [jickingx](https://github.com/jickingx)
-
-- 📝 I write dev articles on [http://jickingdev.blogspot.com/](http://jickingdev.blogspot.com/)
-
-- ⚡ Fun fact **I draw monsters too**
+<h3 align="center">I'm a Full Stack Web Developer from PH who ❤️ OSS.</h3>
+- I make art and games using [Krita](https://krita.org) and [Godot](https://godotengine.org/) too.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

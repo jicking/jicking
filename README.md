@@ -1,6 +1,6 @@
 <h1 align="center">Yooo 👋, I'm Jicking Bebiro</h1>
 <h3 align="center">I'm a Full Stack Web Developer from PH who ❤️ OSS.</h3>
-<p align="center">I make art and games using [Krita](https://krita.org) and [Godot](https://godotengine.org/) too.</p>
+<p align="center">I make art and games using <a href="https://krita.org" target="blank">Krita</a> and <a href="https://godotengine.org/" target="blank">Godot</a> too.</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

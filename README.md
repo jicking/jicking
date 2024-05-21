@@ -1,6 +1,6 @@
 # 👋 I'm Jicking Bebiro
 
-👨🏽‍💻 A Full-stack .NET developer from 🇵🇭 with more than 8 years of hands-on experience in crafting robust web applications and services. 
+👨🏽‍💻 A Full-stack .NET developer with over 8 years of hands-on experience in crafting apps and services for the web. 
 
 ❤️ I enjoy working on app modernization, cloud migration, and establishing CI/CD processes.
 

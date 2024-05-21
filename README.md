@@ -2,9 +2,9 @@
 
 👨🏽‍💻 A Full-stack .NET developer from 🇵🇭 with more than 8 years of hands-on experience in crafting robust web applications and services. 
 
-🎯 I ❤️ working on app modernization, cloud migration, and establishing CI/CD processes.
+❤️ I enjoy working on app modernization, cloud migration, and establishing CI/CD processes.
 
-✨ My guiding principles? Simplicity and maintainability. I believe that the best code is not only functional but also easy to understand.
+✨ I prefer Simplicity. I believe that the best code is not only functional but also easy to understand.
 
 💼 If you need a dedicated Full-stack .NET developer, let's connect!
 

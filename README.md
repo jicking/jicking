@@ -4,7 +4,8 @@
 
 ❤️ I enjoy working on app modernization, cloud migration(Azure), and DevOps such as establishing simple and clear CI/CD processes for organizations.
 
-✨ I value simplicity in my craft, because the best solutions empower teams to understand, maintain, and build upon them with ease (simple solutions are the ones that lasts too 😉).
+✨ I value simplicity in my craft, because the best solutions empower teams to understand, maintain, and build upon them with ease.
+(simple solutions are the ones that last too 😉)
 
 💼 If you need a dedicated Full-stack .NET developer, let's connect!
 
